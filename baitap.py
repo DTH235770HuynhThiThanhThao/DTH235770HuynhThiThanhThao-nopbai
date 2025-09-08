@@ -25,3 +25,4 @@ print("Chao cac ban !")
 #cau 5
 name=input("Moi ban nhap ho va ten: ")
 print("Xin chao: ",name)
+print("Co len nha")
